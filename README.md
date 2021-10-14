@@ -1,5 +1,5 @@
 # rental-co
-sql dbms project
+SQL DBMS Project
 
 
 Database Management System (DBMS) containing information for car rental company.
